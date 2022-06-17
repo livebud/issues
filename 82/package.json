@@ -1,0 +1,8 @@
+{
+  "name": "issue-82",
+  "private": true,
+  "dependencies": {
+    "livebud": "0.1.4",
+    "svelte": "3.47.0"
+  }
+}
