@@ -1,6 +1,6 @@
 # Issues
 
-Reproductions of issues. The directory corresponds to an issue in https://github.com/livebud/bud. For example, `./137` would map to https://github.com/livebud/bud/issues/137.
+Reproductions of issues. The directory corresponds to an issue in https://github.com/livebud/bud. For example, [137/](./137) would map to https://github.com/livebud/bud/issues/137.
 
 ## Contributing
 
